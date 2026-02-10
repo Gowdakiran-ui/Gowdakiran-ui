@@ -1,5 +1,29 @@
 # 💫 About Me:
-👋 Hi — I’m Kiran Gowda (The Cyber owl)<br><br>> Automation-first. Security-minded. ML-powered.<br>> I build agentic automations, robust ML systems, and production-ready security tooling — quietly and effectively.<br><br>- 🔭 Currently: Building Anya — a fast local-first agent (n8n + MCP + LLM tooling) .  <br>- 🧠 Focus: NLP, Transformers, Generative AI, RAG, Cybersecurity (Red/Blue), Automations & Workflow Engineering.  <br>- 💼 Internship / Collabs: DTS, NetPy (ongoing projects & collaborations).  <br>- 📫 Reach me: kiranashgowda007@gmail.com  <br>- 🌐 Portfolio: https://kirans-ai-canvas.vercel.app/  <br>- 🔗 LinkedIn: https://www.linkedin.com/in/kiranashokgowda07/<br><br><br> 🚀 What I build <br>- Autonomous agents (Anya)— Local-first LLM agent with MCP tools for file access, web search, python sandbox, and n8n endpoints.  <br>- High-performance RAG demos — Lightweight LLM + vector DB for complex tasks (code gen, workflows, automation).  <br>- Reliable ML models — Training accurate and industry ready ml and dl models<br>- End-to-end automation — n8n + OpenRouter integrations for lead-gen and AI-driven workflows.<br><br><br>🤖 Artificial Intelligence<br><br>Machine Learning: Scikit-learn, LightGBM, XGBoost, Logistic Regression, SVM<br>Deep Learning: TensorFlow / Keras, PyTorch (comfortable), CNNs, RNNs, Transformers<br>NLP: Tokenization, Embeddings, Char-CNN, LSTMs, Attention, Sequence Models<br>Generative AI: Prompt engineering, RAG systems, text generation, code generation<br>Agentic AI: llama.cpp,Qwen / DeepSeek / Phi via OpenRouter<br>MCP tools (filesystem, Python sandbox, web search, custom actions)<br><br>Cybersecurity<br><br>Blue Team:<br>SIEM basics, ElastAlert2 rules, log anomaly detection (4624/4625, SMB spikes), alert pipelines<br>Threat Detection:<br>DGA classification (Char-CNN), entropy analysis, lexical models<br>Red Team Basics: Kali Linux, OSINT, reconnaissance<br>SOCs & Logs: Windows event logs, Sysmon, OpenSearch<br><br><br>
+👋 Hi — I’m Kiran Gowda (The Luminal Architect)<br><br>
+> Architecture-first. Automation-driven. ML-powered.<br>
+> I design scalable AI systems, robust ML pipelines, and production-ready agentic architectures — quietly and effectively.<br><br>
+
+- 🔭 Currently: Building Anya — a fast local-first agent (n8n + MCP + LLM tooling).  <br>
+- 🧠 Focus: System Design, AI Architecture, NLP, Transformers, Generative AI, RAG, Automations & Workflow Engineering.  <br>
+- 💼 Internship / Collabs: DTS, NetPy (ongoing projects & collaborations).  <br>
+- 📫 Reach me: kiranashgowda007@gmail.com  <br>
+- 🌐 Portfolio: https://kirans-ai-canvas.vercel.app/  <br>
+- 🔗 LinkedIn: https://www.linkedin.com/in/kiranashokgowda07/<br><br><br>
+
+🚀 What I build <br>
+- Autonomous agents (Anya) — Local-first LLM agent with MCP tools for file access, web search, python sandbox, and n8n endpoints.  <br>
+- High-performance RAG systems — Lightweight LLM + vector DB for grounded reasoning, automation, and workflow generation.  <br>
+- Reliable ML pipelines — Designing, validating, and training industry-ready ML & DL systems. <br>
+- End-to-end automation — n8n + OpenRouter integrations for AI-driven ops and workflow orchestration.<br><br><br>
+
+🤖 Artificial Intelligence & Systems<br><br>
+Machine Learning: Scikit-learn, LightGBM, XGBoost, Logistic Regression, SVM<br>
+Deep Learning: TensorFlow / Keras, PyTorch (comfortable), CNNs, RNNs, Transformers<br>
+NLP: Tokenization, Embeddings, Sequence Models, Attention, Transformer Architectures<br>
+Generative AI: Prompt engineering, RAG systems, text & code generation pipelines<br>
+Agentic AI: llama.cpp, Qwen / DeepSeek / Phi via OpenRouter<br>
+MCP tools (filesystem, Python sandbox, web search, custom actions)<br><br><br>
+
 
 
 ## 🌐 Socials:
